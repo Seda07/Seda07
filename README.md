@@ -1,6 +1,6 @@
-Hi dear,
-I am Seda
-I am passionate about programming, technology and finance
+Hi dear.
+I`m Seda and
+I`m passionate about programming, technology and finance
 seeking collaboration opportunities to enhance skills, 
 share knowledge, and work on innovative projects together.
 P.S.  You can contact me through my LinkedIn.
