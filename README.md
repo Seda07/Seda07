@@ -1,5 +1,9 @@
 Hi I am Seda
-I am passionate about programming, seeking collaboration opportunities to enhance skills, share knowledge, and work on innovative projects together.
+I am passionate about programming, technology and finance
+seeking collaboration opportunities to enhance skills, 
+share knowledge, and work on innovative projects together.
+P.S.  You can contact me through my LinkedIn.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/seda-gevorgian-faunofinance/) 
