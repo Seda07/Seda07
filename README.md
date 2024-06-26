@@ -1,4 +1,5 @@
-Hi I am Seda
+Hi dear,
+I am Seda
 I am passionate about programming, technology and finance
 seeking collaboration opportunities to enhance skills, 
 share knowledge, and work on innovative projects together.
